@@ -1,16 +1,14 @@
-### Hi there 👋
+### bem vindo ao meu perfil👋
 
-<!--
-**alanaamerico22/alanaamerico22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Alana Americo
+  
+- Estou estudando na alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Uso esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos na escola
+- Sou do agro, faço cachaça e amo trator
+- Faço curso da Senar o JAA que amo muito que é sobre agricultura e administração da propriedade
+- Estudo no colégio Ceimm 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/VD4ReIzxDpwAAAAC/%D1%81%D0%BB%D0%B0%D0%B9%D0%B41.gif)
+![](https://media.tenor.com/HEmI59j2aeEAAAAi/faesp-senarsp.gif)
